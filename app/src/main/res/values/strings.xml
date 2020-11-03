@@ -1,3 +1,24 @@
 <resources>
+    <!--global-->
     <string name="app_name">EjercicioCoursera</string>
+
+    <!--actividad 1-->
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha Nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">E-Mail</string>
+    <string name="descripcion">Descripción</string>
+    <string name="siguiente">Siguiente</string>
+
+    <!--actividad 2-->
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="editar">Editar Datos</string>
+
+    <!--parámetros-->
+    <string name="pNombre">nombre</string>
+    <string name="pFecha">fecha</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">email</string>
+    <string name="pDescripcion">descripcion</string>
+
 </resources>
